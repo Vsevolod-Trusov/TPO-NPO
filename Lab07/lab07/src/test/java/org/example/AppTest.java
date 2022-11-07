@@ -1,6 +1,7 @@
 package org.example;
 
 import org.example.calculator.Calculator;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -8,6 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * Unit test for simple App.
  */
+@Tag("calculateTest")
 public class AppTest 
 {
     @Test
