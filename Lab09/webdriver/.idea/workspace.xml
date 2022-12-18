@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4259c807-4a78-404f-9dec-9ebe38ed7680" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/pageObject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lab05/helloci" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab05/helloci" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab06/Lab06/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06/Lab06/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2HH22lasCHYZMdhz8loRu3hsucC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -96,7 +86,7 @@
       <workItem from="1667927491782" duration="8338000" />
       <workItem from="1668100591902" duration="1661000" />
       <workItem from="1668156636801" duration="823000" />
-      <workItem from="1669729819383" duration="1843000" />
+      <workItem from="1669729819383" duration="6777000" />
     </task>
     <servers />
   </component>

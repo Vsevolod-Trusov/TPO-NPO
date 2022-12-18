@@ -1,13 +1,30 @@
-package base_page;
+package com.example.lab.page;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.Dimension;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.WebDriver;
 
 import java.util.List;
 
-public class TiresSeachPage extends BasePage {
+public class TiresSeachPage extends AbstractPage {
+    private final Logger logger = LogManager.getRootLogger();
+    public TiresSeachPage(WebDriver driver) {
+        super(driver);
+        PageFactory.initElements(this.driver, this);
+    }
+
+
+    public TiresSeachPage openPage(String uri) {
+        driver.navigate().to(uri);
+        logger.info("TiresSearchPage opened");
+        return this;
+    }
+
+
     @FindBy(xpath = "//*[@id=\"tv|width-profile_0\"]")//
     private  WebElement listWidth;
 
@@ -80,19 +97,6 @@ public class TiresSeachPage extends BasePage {
 
     @FindBy(xpath = "//*[@id=\"mse2_results\"]/div[1]")
     private List<WebElement> listTires;
-    public TiresSeachPage(WebDriver driver) {
-        super(driver);
-    }
-
-    @Override
-    protected BasePage openPage() {
-        return null;
-    }
-
-    public TiresSeachPage openPage(String path) {
-        driver.get(path);
-        return this;
-    }
 
     public TiresSeachPage clickOnWidthList() {
         listWidth.click();

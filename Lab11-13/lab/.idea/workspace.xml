@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9aa6386-ddbe-4449-a25d-44684b66965c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab10/.idea/Lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/driver/DriverSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresByManufacturerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresByModelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresForCargoCarsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSeachPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByManufacturerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByModelPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForAgriculturalCarPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForCargoCarsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByPriceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab05/helloci" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab05/helloci" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab09/webdriver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab09/webdriver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/TiresSeachPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/TiresSeachPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/TEST-objectPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/TEST-objectPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/objectPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/objectPageTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/TiresSeachPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/TiresSeachPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/java/HelloWebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/objectPage.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.8.6-bin/apache-maven-3.8.6" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J3fvHsvQJKIs8f2PWg1g0KtCbn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Univer/3курс/1сем/ТПОиНПО/TPO-NPO/Lab11-13/lab/src/test/resources",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Univer\3курс\1сем\ТПОиНПО\TPO-NPO\Lab11-13\lab\src\test\resources" />
+      <recent name="D:\Univer\3курс\1сем\ТПОиНПО\TPO-NPO\Lab11-13\lab\src\test\java\com\example\lab\test" />
+      <recent name="D:\Univer\3курс\1сем\ТПОиНПО\TPO-NPO\Lab11-13\lab\src\test\java\com\example\lab\page" />
+      <recent name="D:\Univer\3курс\1сем\ТПОиНПО\TPO-NPO\Lab11-13\lab\src\test\java\com\example\lab" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.lab.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TiresSortByPriceTest">
+    <configuration name="TiresByManufacturerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresByManufacturerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiresForCargoCarsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresForCargoCarsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiresSortByDateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresSortByDateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiresSortByNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresSortByNameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiresSortByPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresSortByPriceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TiresByManufacturerTest" />
+      <item itemvalue="JUnit.TiresForCargoCarsTest" />
+      <item itemvalue="JUnit.TiresSortByDateTest" />
+      <item itemvalue="JUnit.TiresSortByNameTest" />
+      <item itemvalue="JUnit.TiresSortByPriceTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TiresSortByPriceTest" />
+        <item itemvalue="JUnit.TiresSortByDateTest" />
+        <item itemvalue="JUnit.TiresSortByNameTest" />
+        <item itemvalue="JUnit.TiresForCargoCarsTest" />
+        <item itemvalue="JUnit.TiresByManufacturerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9aa6386-ddbe-4449-a25d-44684b66965c" name="Changes" comment="" />
+      <created>1671311918728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671311918728</updated>
+      <workItem from="1671311920255" duration="24022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByName.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

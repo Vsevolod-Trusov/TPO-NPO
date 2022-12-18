@@ -6,7 +6,6 @@ import org.openqa.selenium.support.PageFactory;
 import java.time.Duration;
 
 public abstract class BasePage {
-    protected final Duration WAIT_TIMEOUT_SECONDS = Duration.ofSeconds(10);
     protected WebDriver driver;
     protected BasePage(WebDriver driver) {
 
