@@ -45,7 +45,7 @@ public class TiresByModelPage extends AbstractPage {
     @FindBy(xpath = "//*[@id=\"marks\"]/div/form/div[3]/select")
     private WebElement yearList ;
 
-    @FindBy(xpath = "//*[@id=\"marks\"]/div/form/div[3]/select/option[9]")
+    @FindBy(xpath = "/html/body/div[2]/div/div/div/div[3]/div[2]/div[2]/div/form/div[3]/select/option[9]")
     private WebElement yearValue ;
 
     @FindBy(xpath = "//*[@id=\"marks\"]/div/form/div[4]/select")

@@ -2,17 +2,16 @@ package com.example.lab.test;
 
 import com.example.lab.driver.DriverSingleton;
 import com.example.lab.page.TiresSeachPage;
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
-
 
 public class ObjectPageTest {
     protected WebDriver driver;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         driver = DriverSingleton.getDriver();
     }
@@ -42,7 +41,7 @@ public class ObjectPageTest {
 
     }
 
-    @After
+    @AfterEach
     public void clearResources() {
         DriverSingleton.closeDriver();
     }

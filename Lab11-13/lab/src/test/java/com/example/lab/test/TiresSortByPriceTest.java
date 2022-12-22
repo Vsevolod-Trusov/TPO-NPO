@@ -8,7 +8,11 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.After;
 import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.parallel.Execution;
+import org.junit.jupiter.api.parallel.ExecutionMode;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -17,11 +21,11 @@ import org.openqa.selenium.support.PageFactory;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
-
+//@Execution(ExecutionMode.CONCURRENT)
 public class TiresSortByPriceTest {
     protected WebDriver driver;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         driver = DriverSingleton.getDriver();
     }
@@ -36,7 +40,7 @@ public class TiresSortByPriceTest {
                 is(equalTo(tiresSortByPrice.getResultText())));
     }
 
-    @After
+    @AfterEach
     public void clearResources() {
         DriverSingleton.closeDriver();
     }

@@ -6,14 +6,19 @@ import com.example.lab.page.TiresSeachPage;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.TestTemplate;
+import org.junit.jupiter.api.parallel.Execution;
+import org.junit.jupiter.api.parallel.ExecutionMode;
 import org.openqa.selenium.WebDriver;
-
+//@Execution(ExecutionMode.CONCURRENT)
 public class TiresByModelPageTest {
 
     protected WebDriver driver;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         driver = DriverSingleton.getDriver();
     }
@@ -33,11 +38,11 @@ public class TiresByModelPageTest {
                 .clickOnModificationList()
                 .clickOnModificationValue()
                 .clickOnManufacturerLink();
-        Assert.assertEquals("Всего результатов: 24",
+        Assert.assertEquals("Всего результатов: 26",
                 tiresByModel.getResultText());
     }
 
-    @After
+    @AfterEach
     public void clearResources() {
         DriverSingleton.closeDriver();
     }

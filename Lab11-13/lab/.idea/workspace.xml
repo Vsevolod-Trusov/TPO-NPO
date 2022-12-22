@@ -5,51 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9aa6386-ddbe-4449-a25d-44684b66965c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lab10/.idea/Lab10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/driver/DriverSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/AbstractPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresByManufacturerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresByModelPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresForCargoCarsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSeachPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByManufacturerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByModelPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForAgriculturalCarPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForCargoCarsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByDateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByPriceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lab05/helloci" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab05/helloci" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab09/webdriver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab09/webdriver/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/TiresSeachPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/src/test/java/base_page/TiresSeachPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/TEST-objectPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/TEST-objectPageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/objectPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/surefire-reports/objectPageTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/TiresSeachPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/base_page/TiresSeachPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/java/HelloWebDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab10/pageObject/target/test-classes/objectPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/driver/DriverSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/driver/DriverSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresByModelPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresByModelPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByManufacturerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByManufacturerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByModelPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresByModelPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForAgriculturalCarPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForAgriculturalCarPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForCargoCarsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresForCargoCarsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByPriceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/lab/test/TiresSortByPriceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Univer/3курс/1сем/ТПОиНПО/TPO-NPO/Lab11-13/lab/src/test/resources",
+    "last_opened_file_path": "D:/Univer/3курс/1сем/ТПОиНПО/TPO-NPO/Lab11-13/lab",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
@@ -105,7 +74,22 @@
       <recent name="com.example.lab.util" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TiresSortByPriceTest">
+  <component name="RunManager" selected="JUnit.TiresByModelPageTest">
+    <configuration name="ObjectPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.lab.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.ObjectPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TiresByManufacturerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab" />
       <extension name="coverage">
@@ -121,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiresForCargoCarsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TiresByModelPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab" />
       <extension name="coverage">
         <pattern>
@@ -130,7 +114,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.lab.test" />
-      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresForCargoCarsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresByModelPageTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,35 +150,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiresSortByPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.lab.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.lab.test" />
-      <option name="MAIN_CLASS_NAME" value="com.example.lab.test.TiresSortByPriceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="JUnit.ObjectPageTest" />
+      <item itemvalue="JUnit.TiresByModelPageTest" />
       <item itemvalue="JUnit.TiresByManufacturerTest" />
-      <item itemvalue="JUnit.TiresForCargoCarsTest" />
       <item itemvalue="JUnit.TiresSortByDateTest" />
       <item itemvalue="JUnit.TiresSortByNameTest" />
-      <item itemvalue="JUnit.TiresSortByPriceTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TiresSortByPriceTest" />
-        <item itemvalue="JUnit.TiresSortByDateTest" />
-        <item itemvalue="JUnit.TiresSortByNameTest" />
-        <item itemvalue="JUnit.TiresForCargoCarsTest" />
+        <item itemvalue="JUnit.TiresByModelPageTest" />
+        <item itemvalue="JUnit.ObjectPageTest" />
         <item itemvalue="JUnit.TiresByManufacturerTest" />
+        <item itemvalue="JUnit.TiresSortByNameTest" />
+        <item itemvalue="JUnit.TiresSortByDateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +175,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671311918728</updated>
-      <workItem from="1671311920255" duration="24022000" />
+      <workItem from="1671311920255" duration="24671000" />
+      <workItem from="1671717234836" duration="9655000" />
     </task>
     <servers />
   </component>
@@ -227,16 +197,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/example/lab/test/ObjectPageTest.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/example/lab/page/TiresSortByName.java</url>
           <line>41</line>
